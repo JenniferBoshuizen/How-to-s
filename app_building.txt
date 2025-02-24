@@ -1,0 +1,16 @@
+Een snelle manier om apps te bouwen kan met AI: https://www.youtube.com/watch?v=EsRyyJmO-u8
+
+Stappenplan:
+1. Creeer een website (met chatgpt)
+2. Host de zipped website code met bijv. tiiny.host
+3. Convert de website link naar app format met https://www.webintoapp.com/
+4. Download de app, upload naar google drive en download op telefoon naar keuze.
+
+Echter wordt er door meer ervaren programmeurs aangeraden om je te verdiepen in cross-platform development. (https://www.youtube.com/watch?v=yye7rSsiV6k)
+  Hierbij zou je bijv gebruik kunnen maken van Kotlin multiplatform.
+
+Een interessant iets om sowieso naar te kijken is f-droid: een Google playstore alternatief.
+  Als je je app beschikbaar wilt maken, is dat het beste alternatief voor bit tech.
+
+  Create Your Own F-Droid Repo & Share Android Apps | Easy Setup (Desktop): https://www.youtube.com/watch?v=xkDNIQzibYI
+  How to Add a Custom Repository Source to F-Droid (Mobile): https://www.youtube.com/watch?v=-n9BlD-yRwc
